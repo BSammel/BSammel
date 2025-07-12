@@ -14,7 +14,7 @@
     <li>
 💻 Languages: C#| C++ | Python | Java | JavaScript
     </li>
-🌐 Web: HTML | CSS | React | Node.js
+<li>🌐 Web: HTML | CSS | React | Node.js</li>
 <li>
 🛠️ Tools: Git & GitHub | VS Code | Figma | VIsual studio
 </li>
@@ -48,5 +48,5 @@
 
  <div> 👀 Visitor Counter 
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=SammelBempong&style=flat-square&color=blue)
+![Visitor Badge](https://komarev.com/ghpvc/?username=BSammel&style=flat-square&color=blue)
 </div>
