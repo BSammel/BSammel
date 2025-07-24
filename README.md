@@ -4,7 +4,7 @@
 </div>
 <div>
   <p>
-    Hi there 👋 I'm Sammel, a passionate Computer Engineering student with a love for building efficient solutions, exploring cybersecurity, and experimenting with cool tech projects.
+    Hi there 👋 I'm Sammel, a passionate Computer Engineering student with a love for building efficient solutions and experimenting with cool tech projects.
     <p>I enjoy working on projects that challenge my skills and help me grow as a developer.</p>
   </p>
 </div>
